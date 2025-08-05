@@ -1,1 +1,6 @@
-# Proyecto-An-lisis
+# Proyecto-Analisis
+# INTEGRANTES:
+# - MATEO BARBA
+# - DANIEL DIAZ
+# - MERCY PERUGACHI
+# - IVAN PANCHI
